@@ -1,0 +1,239 @@
+USUBJID,TRT01P,TRTSDT,AEDECOD,AESEV,ASTDT,TRTEMFL
+SUBJ-004,Placebo,2024-01-01,Headache,MILD,2024-01-05,Y
+SUBJ-005,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-27,Y
+SUBJ-006,Investigational Drug,2024-01-01,Rash,MILD,2024-01-22,Y
+SUBJ-007,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-02,Y
+SUBJ-008,Investigational Drug,2024-01-01,Headache,MILD,2024-01-27,Y
+SUBJ-008,Investigational Drug,2024-01-01,Headache,MILD,2024-01-04,Y
+SUBJ-008,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-11,Y
+SUBJ-009,Placebo,2024-01-01,Rash,MODERATE,2024-01-30,Y
+SUBJ-010,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-03,Y
+SUBJ-012,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-26,Y
+SUBJ-015,Placebo,2024-01-01,Fatigue,MILD,2024-01-05,Y
+SUBJ-015,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-28,Y
+SUBJ-017,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-30,Y
+SUBJ-017,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-22,Y
+SUBJ-018,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-09,Y
+SUBJ-018,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-03,Y
+SUBJ-018,Investigational Drug,2024-01-01,Headache,MILD,2024-01-13,Y
+SUBJ-019,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-13,Y
+SUBJ-019,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-23,Y
+SUBJ-022,Placebo,2024-01-01,Headache,MODERATE,2024-01-31,Y
+SUBJ-023,Placebo,2024-01-01,Dizziness,MILD,2024-01-17,Y
+SUBJ-023,Placebo,2024-01-01,Fatigue,MODERATE,2024-01-13,Y
+SUBJ-026,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-16,Y
+SUBJ-026,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-11,Y
+SUBJ-032,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-29,Y
+SUBJ-032,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-20,Y
+SUBJ-033,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-25,Y
+SUBJ-034,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-12,Y
+SUBJ-034,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-08,Y
+SUBJ-035,Placebo,2024-01-01,Rash,MILD,2024-01-04,Y
+SUBJ-035,Placebo,2024-01-01,Rash,MILD,2024-01-23,Y
+SUBJ-036,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-09,Y
+SUBJ-036,Investigational Drug,2024-01-01,Rash,MILD,2024-01-30,Y
+SUBJ-038,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-26,Y
+SUBJ-038,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-08,Y
+SUBJ-039,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-11,Y
+SUBJ-040,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-20,Y
+SUBJ-040,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-20,Y
+SUBJ-043,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-04,Y
+SUBJ-043,Investigational Drug,2024-01-01,Rash,MILD,2024-01-24,Y
+SUBJ-044,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-02,Y
+SUBJ-044,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-21,Y
+SUBJ-044,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-19,Y
+SUBJ-045,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-04,Y
+SUBJ-045,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-03,Y
+SUBJ-046,Investigational Drug,2024-01-01,Rash,MILD,2024-01-17,Y
+SUBJ-046,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-30,Y
+SUBJ-047,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-27,Y
+SUBJ-047,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-08,Y
+SUBJ-048,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-02,Y
+SUBJ-049,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-04,Y
+SUBJ-051,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-28,Y
+SUBJ-051,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-05,Y
+SUBJ-053,Investigational Drug,2024-01-01,Headache,MILD,2024-01-21,Y
+SUBJ-053,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-30,Y
+SUBJ-053,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-30,Y
+SUBJ-054,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-06,Y
+SUBJ-055,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-05,Y
+SUBJ-055,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-07,Y
+SUBJ-055,Investigational Drug,2024-01-01,Rash,MILD,2024-01-15,Y
+SUBJ-056,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-15,Y
+SUBJ-056,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-08,Y
+SUBJ-058,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-03,Y
+SUBJ-058,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-25,Y
+SUBJ-058,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-31,Y
+SUBJ-061,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-17,Y
+SUBJ-061,Placebo,2024-01-01,Headache,MILD,2024-01-05,Y
+SUBJ-062,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-18,Y
+SUBJ-063,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-15,Y
+SUBJ-063,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-14,Y
+SUBJ-064,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-28,Y
+SUBJ-064,Investigational Drug,2024-01-01,Headache,MILD,2024-01-20,Y
+SUBJ-065,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-26,Y
+SUBJ-065,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-06,Y
+SUBJ-067,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-08,Y
+SUBJ-067,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-30,Y
+SUBJ-067,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-12,Y
+SUBJ-071,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-10,Y
+SUBJ-072,Placebo,2024-01-01,Dizziness,MODERATE,2024-01-28,Y
+SUBJ-073,Investigational Drug,2024-01-01,Rash,MILD,2024-01-22,Y
+SUBJ-073,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-12,Y
+SUBJ-076,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-13,Y
+SUBJ-076,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-23,Y
+SUBJ-077,Placebo,2024-01-01,Headache,MODERATE,2024-01-05,Y
+SUBJ-079,Placebo,2024-01-01,Rash,SEVERE,2024-01-29,Y
+SUBJ-081,Investigational Drug,2024-01-01,Headache,MILD,2024-01-03,Y
+SUBJ-081,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-23,Y
+SUBJ-082,Placebo,2024-01-01,Rash,MILD,2024-01-21,Y
+SUBJ-083,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-17,Y
+SUBJ-083,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-18,Y
+SUBJ-084,Placebo,2024-01-01,Headache,SEVERE,2024-01-19,Y
+SUBJ-086,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-25,Y
+SUBJ-086,Investigational Drug,2024-01-01,Rash,MILD,2024-01-03,Y
+SUBJ-087,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-04,Y
+SUBJ-087,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-22,Y
+SUBJ-087,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-28,Y
+SUBJ-088,Placebo,2024-01-01,Dizziness,MODERATE,2024-01-10,Y
+SUBJ-089,Placebo,2024-01-01,Nausea,MODERATE,2024-01-15,Y
+SUBJ-090,Placebo,2024-01-01,Dizziness,MILD,2024-01-15,Y
+SUBJ-093,Placebo,2024-01-01,Nausea,SEVERE,2024-01-03,Y
+SUBJ-093,Placebo,2024-01-01,Dizziness,SEVERE,2024-01-30,Y
+SUBJ-094,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-21,Y
+SUBJ-094,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-02,Y
+SUBJ-094,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-24,Y
+SUBJ-095,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-13,Y
+SUBJ-096,Investigational Drug,2024-01-01,Rash,MILD,2024-01-14,Y
+SUBJ-096,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-27,Y
+SUBJ-098,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-29,Y
+SUBJ-098,Investigational Drug,2024-01-01,Rash,MILD,2024-01-06,Y
+SUBJ-099,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-29,Y
+SUBJ-099,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-28,Y
+SUBJ-101,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-02,Y
+SUBJ-101,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-09,Y
+SUBJ-102,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-09,Y
+SUBJ-102,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-31,Y
+SUBJ-103,Placebo,2024-01-01,Dizziness,MODERATE,2024-01-24,Y
+SUBJ-104,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-12,Y
+SUBJ-104,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-04,Y
+SUBJ-107,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-15,Y
+SUBJ-107,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-22,Y
+SUBJ-108,Placebo,2024-01-01,Rash,MILD,2024-01-02,Y
+SUBJ-109,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-30,Y
+SUBJ-110,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-24,Y
+SUBJ-111,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-10,Y
+SUBJ-112,Placebo,2024-01-01,Rash,MODERATE,2024-01-30,Y
+SUBJ-113,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-08,Y
+SUBJ-114,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-02,Y
+SUBJ-114,Placebo,2024-01-01,Headache,MODERATE,2024-01-31,Y
+SUBJ-115,Investigational Drug,2024-01-01,Rash,MILD,2024-01-24,Y
+SUBJ-115,Investigational Drug,2024-01-01,Rash,MILD,2024-01-24,Y
+SUBJ-115,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-04,Y
+SUBJ-116,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-02,Y
+SUBJ-117,Placebo,2024-01-01,Dizziness,SEVERE,2024-01-15,Y
+SUBJ-118,Placebo,2024-01-01,Nausea,MILD,2024-01-31,Y
+SUBJ-120,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-02,Y
+SUBJ-120,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-07,Y
+SUBJ-122,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-13,Y
+SUBJ-123,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-14,Y
+SUBJ-123,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-30,Y
+SUBJ-124,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-29,Y
+SUBJ-124,Investigational Drug,2024-01-01,Rash,MILD,2024-01-06,Y
+SUBJ-125,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-05,Y
+SUBJ-127,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-13,Y
+SUBJ-128,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-05,Y
+SUBJ-128,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-24,Y
+SUBJ-134,Placebo,2024-01-01,Fatigue,MILD,2024-01-14,Y
+SUBJ-135,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-31,Y
+SUBJ-135,Investigational Drug,2024-01-01,Headache,MILD,2024-01-12,Y
+SUBJ-136,Investigational Drug,2024-01-01,Rash,MILD,2024-01-15,Y
+SUBJ-136,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-23,Y
+SUBJ-137,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-19,Y
+SUBJ-137,Investigational Drug,2024-01-01,Rash,MILD,2024-01-26,Y
+SUBJ-138,Placebo,2024-01-01,Fatigue,MODERATE,2024-01-30,Y
+SUBJ-140,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-29,Y
+SUBJ-140,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-11,Y
+SUBJ-142,Placebo,2024-01-01,Headache,MODERATE,2024-01-03,Y
+SUBJ-143,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-22,Y
+SUBJ-143,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-09,Y
+SUBJ-144,Placebo,2024-01-01,Headache,SEVERE,2024-01-08,Y
+SUBJ-147,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-18,Y
+SUBJ-147,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-25,Y
+SUBJ-148,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-15,Y
+SUBJ-148,Investigational Drug,2024-01-01,Headache,MILD,2024-01-04,Y
+SUBJ-148,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-29,Y
+SUBJ-149,Placebo,2024-01-01,Rash,MODERATE,2024-01-03,Y
+SUBJ-150,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-23,Y
+SUBJ-150,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-24,Y
+SUBJ-151,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-04,Y
+SUBJ-151,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-04,Y
+SUBJ-151,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-19,Y
+SUBJ-152,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-06,Y
+SUBJ-152,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-23,Y
+SUBJ-153,Placebo,2024-01-01,Nausea,SEVERE,2024-01-26,Y
+SUBJ-153,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-20,Y
+SUBJ-154,Placebo,2024-01-01,Fatigue,MILD,2024-01-19,Y
+SUBJ-155,Placebo,2024-01-01,Headache,SEVERE,2024-01-23,Y
+SUBJ-155,Placebo,2024-01-01,Dizziness,SEVERE,2024-01-11,Y
+SUBJ-156,Placebo,2024-01-01,Fatigue,MILD,2024-01-17,Y
+SUBJ-158,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-18,Y
+SUBJ-158,Placebo,2024-01-01,Dizziness,SEVERE,2024-01-15,Y
+SUBJ-160,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-22,Y
+SUBJ-160,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-21,Y
+SUBJ-162,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-03,Y
+SUBJ-162,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-04,Y
+SUBJ-162,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-29,Y
+SUBJ-163,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-23,Y
+SUBJ-163,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-27,Y
+SUBJ-165,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-23,Y
+SUBJ-165,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-26,Y
+SUBJ-165,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-16,Y
+SUBJ-166,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-15,Y
+SUBJ-166,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-11,Y
+SUBJ-166,Investigational Drug,2024-01-01,Dizziness,MILD,2024-01-27,Y
+SUBJ-167,Placebo,2024-01-01,Dizziness,SEVERE,2024-01-04,Y
+SUBJ-169,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-20,Y
+SUBJ-169,Investigational Drug,2024-01-01,Headache,MILD,2024-01-07,Y
+SUBJ-169,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-09,Y
+SUBJ-170,Placebo,2024-01-01,Rash,SEVERE,2024-01-02,Y
+SUBJ-170,Placebo,2024-01-01,Fatigue,MILD,2024-01-05,Y
+SUBJ-171,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-02,Y
+SUBJ-171,Investigational Drug,2024-01-01,Rash,MILD,2024-01-14,Y
+SUBJ-173,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-03,Y
+SUBJ-174,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-08,Y
+SUBJ-176,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-16,Y
+SUBJ-176,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-21,Y
+SUBJ-178,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-06,Y
+SUBJ-179,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-24,Y
+SUBJ-180,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-06,Y
+SUBJ-180,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-21,Y
+SUBJ-180,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-02,Y
+SUBJ-181,Investigational Drug,2024-01-01,Rash,MILD,2024-01-13,Y
+SUBJ-182,Investigational Drug,2024-01-01,Headache,MILD,2024-01-15,Y
+SUBJ-182,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-14,Y
+SUBJ-183,Investigational Drug,2024-01-01,Headache,SEVERE,2024-01-05,Y
+SUBJ-186,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-08,Y
+SUBJ-186,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-21,Y
+SUBJ-187,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-14,Y
+SUBJ-187,Investigational Drug,2024-01-01,Headache,MODERATE,2024-01-16,Y
+SUBJ-187,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-19,Y
+SUBJ-189,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-16,Y
+SUBJ-189,Investigational Drug,2024-01-01,Headache,MILD,2024-01-09,Y
+SUBJ-190,Investigational Drug,2024-01-01,Fatigue,SEVERE,2024-01-03,Y
+SUBJ-190,Investigational Drug,2024-01-01,Dizziness,SEVERE,2024-01-26,Y
+SUBJ-190,Investigational Drug,2024-01-01,Nausea,MODERATE,2024-01-06,Y
+SUBJ-191,Placebo,2024-01-01,Fatigue,SEVERE,2024-01-16,Y
+SUBJ-191,Placebo,2024-01-01,Nausea,MILD,2024-01-20,Y
+SUBJ-192,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-15,Y
+SUBJ-192,Investigational Drug,2024-01-01,Nausea,SEVERE,2024-01-19,Y
+SUBJ-193,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-14,Y
+SUBJ-194,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-31,Y
+SUBJ-194,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-19,Y
+SUBJ-195,Investigational Drug,2024-01-01,Fatigue,MILD,2024-01-27,Y
+SUBJ-195,Investigational Drug,2024-01-01,Nausea,MILD,2024-01-06,Y
+SUBJ-196,Investigational Drug,2024-01-01,Rash,MODERATE,2024-01-15,Y
+SUBJ-196,Investigational Drug,2024-01-01,Fatigue,MODERATE,2024-01-11,Y
+SUBJ-197,Placebo,2024-01-01,Nausea,MILD,2024-01-29,Y
+SUBJ-199,Investigational Drug,2024-01-01,Dizziness,MODERATE,2024-01-09,Y
+SUBJ-200,Investigational Drug,2024-01-01,Rash,SEVERE,2024-01-02,Y
