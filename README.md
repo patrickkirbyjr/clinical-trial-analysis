@@ -14,16 +14,16 @@ This project simulates a **Phase III Oncology Clinical Trial** to demonstrate en
 
 ### 1. Efficacy Analysis (Kaplan-Meier Curve)
 *Modeled a statistically significant survival benefit for the Investigational Drug vs. Placebo (Log-Rank p < 0.0001).*
-![KM Curve](output/km_curve_os.png) 
+![KM Curve](outputs/km_curve_os.png) 
 *(Note: Ensure this path matches your actual folder name, e.g., 'outputs' or 'output')*
 
 ### 2. Demographic Baseline (Table 1)
 *Demonstrated balanced randomization across Age, Sex, and Race.*
-![Demographics](output/table1_demographics.png)
+![Demographics](outputs/table1_demographics.png)
 
 ### 3. Safety Analysis (Adverse Events)
 *Summarized treatment-emergent adverse events (TEAEs) adjusted for population size.*
-![Safety Table](output/table_ae_safety.png)
+![Safety Table](outputs/table_ae_safety.png)
 
 ## Repository Structure
 * `00_sim_data.R`: Data generation (Weibull & Binomial logic).
