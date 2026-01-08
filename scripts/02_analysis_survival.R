@@ -1,4 +1,4 @@
-# Script: 00_sim_data.R
+# Script: 02_analysis_survival.R
 # Purpose: Conduct survival analysis
 # Author: Patrick Kirby Jr.
 

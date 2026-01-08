@@ -1,4 +1,4 @@
-# Script: 00_sim_data.R
+# Script: 03_table_safety.R
 # Purpose: Conduct safety analysis
 # Author: Patrick Kirby Jr.
 
